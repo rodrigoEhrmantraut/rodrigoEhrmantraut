@@ -13,6 +13,13 @@
 - 📞 Always responsible, real-time communication  
   
 
+<h1 align="center">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+  <a href="https://join.skype.com/invite/bjzBkZgFMANV"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+</h1>
+
 <br/>  
 
 
@@ -75,32 +82,38 @@
 
 <br/>  
 
+## Github Stats 
+<div align="center">
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=rodrigoEhrmantraut.rodrigoEhrmantraut" />
+  <img align="right" src="https://img.shields.io/github/followers/rodrigoEhrmantraut?label=Follow&style=social" />
+  <h1 align="center"></h1>
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=rodrigoEhrmantraut&show_icons=true&theme=merko&count_private=true" />
+  <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoEhrmantraut&layout=compact&theme=merko&count_private=true" />
+</div>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoEhrmantraut&hide_border=true&layout=compact" align="center" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api?username=rodrigoEhrmantraut&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<hr/>
 
 ## What We Can Do  
-💪 Website and Mobile app  
+<div>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
   
+  ### 💪 Website and Mobile app  
+  <br />
 
-💪 eCommerce  
-  
+  ### 💪 eCommerce
+  <br />
+    
+  ### 💪 Video Conference Web and Mobile application
+  <br />
 
-💪 Video Conference Web and Mobile application  
-  
+</div>
 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rodrigoEhrmantraut&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
